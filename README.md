@@ -1,16 +1,23 @@
-## Hi there 👋
+# Afrizal Aminulloh 🧙🏻‍♂️
 
-<!--
-**lazirfa/lazirfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Afrizal Aminulloh, a Computer Science student at [Universitas Brawijaya Malang](https://www.ub.ac.id/). I have a strong interest in software engineering and everything between product engineering, product design, and product management. I am fascinated by the process of design engineering and aspire to develop products that beautifully blend software engineering, design, and product management. If you have the same interest as me, let's have a chat!
 
-Here are some ideas to get you started:
+## Currently Ongoing Crafting Code 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Guruberkelas]:. ✨
+
+## Professional Experience 🗄 
+
+## Toolkit 🛠
+
+- Front-End Development: **React, Next.js, TailwindCSS, Ajax, Jquery.
+- Back-End Development: **NodeJS, and PHP **.
+- Mobile application development: **-**.
+
+## Get in Touch 🙌🏻
+
+- Explore my [Website](https://afrizalaminulloh.dev/) for more about my work and adventures in coding.
+- Connect with me on [Linkedin](https://www.linkedin.com/in/afrizal-aminulloh-b12241123/) for professional engagements and opportunities.
+- Reach out directly via email: afrizal.aminulloh@gmail.com.
+
+Thanks for dropping by anyway!
